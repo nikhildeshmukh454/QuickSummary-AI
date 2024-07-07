@@ -1,2 +1,7 @@
 spacy
 Flask==2.0.2
+Flask
+numpy
+pandas
+gunicorn
+scikit-learn
