@@ -6,3 +6,4 @@ pandas
 gunicorn
 scikit-learn
 Werkzeug==2.0.2
+en-core-web-sm==3.5.0
