@@ -1,9 +1,7 @@
 spacy
 Flask
-Flask
 numpy
 pandas
 gunicorn
 scikit-learn
 Werkzeug
-en-core-web-sm
